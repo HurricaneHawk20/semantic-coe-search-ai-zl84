@@ -1,4 +1,4 @@
-# 
+# Ligero Semantic Code Search scripts. Con UI personalizable y soporte comunitario — optimizado para el máximo rendimiento y eficiencia.
 
 
 
